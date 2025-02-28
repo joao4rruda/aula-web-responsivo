@@ -1,4 +1,4 @@
-<style>
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -47,4 +47,3 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #45a049;
 }
-</style>
